@@ -2,7 +2,7 @@
 
 # Set header title differently from the site's title (as defined in _config.yml).
 # Uncomment the following line to use the header title.
-# title: Header title
+title:
 
 # Show or hide the official USA banner at the top of the site.
 # Comment out to the following line to hide.
@@ -21,7 +21,8 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: /cdn-cgi/imagedelivery/xidNWvxTY3DcxfV5BKLpmA/791b96b5-f1fa-42e6-36f8-b2a6920ce300/unlimited
+  #src: /cdn-cgi/imagedelivery/xidNWvxTY3DcxfV5BKLpmA/791b96b5-f1fa-42e6-36f8-b2a6920ce300/unlimited
+  src: /cdn-cgi/imagedelivery/xidNWvxTY3DcxfV5BKLpmA/36be72bc-b975-4e9f-a48b-b565e02cf600/unlimited
   alt: Public Data Library
   external: true
 
