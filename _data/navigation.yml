@@ -31,24 +31,24 @@ primary:
     external: false
   - text: Transparency
     links:
-      - text: Campaign Transparency
+      - text: Transparency
         href: /transparency/
       - text: Voter data
         href: /voter-data/
-      - text: Election security
+      - text: security
         href: /election-security/
   - text: FAQs
     href: /faq/
     external: false
   - text: Twitter
-    href: https://twitter.com/sergiozygmunt
+    href: https://twitter.com/publicdatalib
     external: true
 
 secondary:
   - text: Get in touch
     href: /contact/
   - text: Donate
-    href: https://secure.actblue.com/donate/sergiozygmunt
+    href: removing_donation_link_plz_dont_sue
     external: true
 
 # docs:
