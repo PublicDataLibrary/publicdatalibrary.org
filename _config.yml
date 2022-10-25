@@ -1,11 +1,11 @@
-title: Sergio Zygmunt for San Mateo City Council
-description: Sergio Zygmunt for San Mateo City Council
+title: Public Data Library
+description: Public Data Library is an organization committed to government transparency and promotes transparency by maintaining a free online public library of otherwise hard to get government files.
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github_info:
-  organization: sergiozygmunt
-  repository: sergio-for-city-council
+  organization: PublicDataLibrary
+  repository: publicdatalibrary.org
   default_branch: main
 
 # Configuration for setting the site width to 100%
@@ -40,16 +40,16 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 remote_theme: 18F/uswds-jekyll
 
 author:
-  name: Sergio Zygmunt
-  url: https://sergiozygmunt.com
-  twitter: sergiozygmunt
+  name: Public Data Library
+  url: https://publicdatalibrary.org
+  twitter: publicdatalib
 
 # Compress Sass
 sass:
   style: compressed
 
 # Jekyll Site Map
-url: "https://sergioforsanmateo.com" # the base hostname & protocol for your site
+url: "https://publicdatalibrary.org" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
