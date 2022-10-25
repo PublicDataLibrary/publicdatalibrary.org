@@ -16,10 +16,10 @@
       <div class="usa-logo" id="{% if header.type == 'extended' or header.type == 'extended-mega' %}extended-mega-{% endif %}logo">
         <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home">
           {% if header.logo %}
-            <img class="usa-logo-img" src="{% if header.logo.external %}{{ header.logo.src }}{% else %}{{ header.logo.src | relative_url }}{% endif %}" style="@media (min-width: 950px){width:77px;height:72px;}" alt="{{ header.logo.alt }}">
+            <img class="usa-logo-img" src="{% if header.logo.external %}{{ header.logo.src }}{% else %}{{ header.logo.src | relative_url }}{% endif %}" alt="{{ header.logo.alt }}">
           {% endif %}
           <em class="usa-logo-text">
-            <!--{{ header.title | default: site.title }}-->
+            {{ header.title | default: site.title }}
           </em>
         </a>
       </div>
