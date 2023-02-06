@@ -6,14 +6,14 @@ permalink: /
 layout: home
 
 hero:
-  image: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/49dfabb3-fce2-4ab8-0f83-b4e76097c900/unlimited
+  image: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/1904977f-67af-435f-c3a3-3b1e9f42c600/unlimited
   callout:
-    alt: "Hello"
+    alt: "Hello,"
     text: We're the Public Data Library
   button:
-    href: /the-link/
-    text: Some link goes here
-  content: Lorem ipsum text goes here
+    href: https://www.youtube.com/@publicdatalibrary
+    text: Visit our YouTube channel
+  content: We encourage government transparency by connecting communities to hard-to-find government documents - for free.
 
 tagline: Lorem ipsum text goes here <br><button onclick="location.href='Lorem ipsum text goes here'" class="">Donate</button>
 intro: |
