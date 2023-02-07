@@ -8,7 +8,7 @@ layout: page
 ---
 
 ## How to reach Public Data Library Inc
-I always look forward to meeting citizens to learn more about what's important to them.
+Our team would love to hear from you - let us know what records you would like. Have any other questions, comments, or concerns? We're just a message away.
 
 The best way to get in touch with our team is to email us at
 [hello@publicdatalibrary.org](mailto:hello@publicdatalibrary.org)
