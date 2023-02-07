@@ -7,13 +7,13 @@ layout: page
 
 ---
 
-## How to reach me
+## How to reach Public Data Library Inc
 I always look forward to meeting citizens to learn more about what's important to them.
 
-The best way to get in touch with me is to email me.
+The best way to get in touch with our team is to email us at
 [hello@publicdatalibrary.org](mailto:hello@publicdatalibrary.org)
 
-You can also call my office at [(650) 516-DATA (3282)](tel:+16505163282)
+You can also call our office at [(650) 516-DATA (3282)](tel:+16505163282)
 
 ## Social
 Follow us on [Twitter](https://twitter.com/publicdatalib){: .usa-external_link}
