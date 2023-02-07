@@ -11,7 +11,7 @@ hero:
     alt: "Hello,"
     text: We're the Public Data Library
   button:
-    href: https://www.youtube.com/@publicdatalibrary
+    href: https://www.youtube.com/channel/UC2UnxouMdbThOqZfEvYiI8Q
     text: Visit our YouTube channel
   content: We encourage government transparency by connecting communities to hard-to-find government documents - for free.
 
