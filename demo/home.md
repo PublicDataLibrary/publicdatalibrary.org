@@ -12,7 +12,7 @@ hero:
     text: We're the Public Data Library
   button:
     href: https://www.youtube.com/channel/UC2UnxouMdbThOqZfEvYiI8Q
-    text: Visit our YouTube channel
+    text: Visit our YouTube channel{: .usa-external_link}
   content: We encourage government transparency by connecting communities to hard-to-find government records - for free.
 
 #tagline: Lorem ipsum text goes here <br><button onclick="location.href='Lorem ipsum text goes here'" class="">Donate</button>

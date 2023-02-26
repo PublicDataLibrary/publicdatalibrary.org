@@ -17,3 +17,4 @@ You can also call our office at [(650) 516-DATA (3282)](tel:+16505163282)
 
 ## Social
 Follow us on [Twitter](https://twitter.com/publicdatalib){: .usa-external_link}
+Subscribe on [YouTube](https://www.youtube.com/channel/UC2UnxouMdbThOqZfEvYiI8Q){: .usa-external_link}
