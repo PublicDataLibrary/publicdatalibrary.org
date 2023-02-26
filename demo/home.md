@@ -32,7 +32,7 @@ graphics:
       src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/54aab41b-6f41-4ab0-5772-fddb63936100/150
       alt: 'People talking icon'
     title: Promoting Civic Engagement
-    description: Accessible government records are essential to promoting civic engagement. By making it easier for citizens to access and understand government information, we empower individuals to participate in the democratic process, hold their elected officials accountable, and make informed decisions about issues that impact their communities.
+    description: Accessible government records promote civic engagement by providing citizens with the information needed to participate in the democratic process, hold elected officials accountable, and make informed decisions.
 ---
 
 ## Get in touch!
