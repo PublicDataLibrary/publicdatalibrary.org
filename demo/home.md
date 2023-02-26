@@ -24,12 +24,12 @@ hero:
 
 graphics:
   - image:
-      src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/c3a9e16f-912d-4c67-9192-df2ddd1f4e00/public
+      src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/47362343-f141-43f4-a1d7-29b6b6492c00/150
       alt: 'Government building icon'
     title: Make Government Records Publically Available
     description: Our organization is dedicated to providing accessible and transparent government records. By leveraging the latest technology and industry best practices, we present complex data in a clear and user-friendly format.
   - image:
-      src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/2caeb7a4-1507-4bdd-0e3c-131531444300/public
+      src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/54aab41b-6f41-4ab0-5772-fddb63936100/150
       alt: 'People talking icon'
     title: Promoting Civic Engagement
     description: Accessible government records are essential to promoting civic engagement. By making it easier for citizens to access and understand government information, we empower individuals to participate in the democratic process, hold their elected officials accountable, and make informed decisions about issues that impact their communities.
