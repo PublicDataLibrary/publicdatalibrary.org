@@ -22,27 +22,17 @@ hero:
 #  Line 2 Lorem ipsum text goes here
   
 
-#graphics:
-#  - image:
-#      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/df0e7766-3dfe-46d3-5ce2-ddfcfe746700/uswdsgraphics
-#      alt: 'Train icon'
-#    title: Making Transit Accessible
-#    description: Lorem ipsum text goes here
-#  - image:
-#      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/9aa8cb2c-766d-47e8-575d-1a9ff0e34d00/uswdsgraphics
-#      alt: 'Earth icon'
-#    title: Reducing Business Pollution
-#    description: Lorem ipsum text goes here
-#  - image:
-#      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/b4cf3f19-a8c5-4b3c-5348-712818202700/uswdsgraphics
-#      alt: 'Housing'
-#    title: Making Housing Accessible
-#    description: Lorem ipsum text goes here
-#  - image:
-#      src: /cdn-cgi/imagedelivery/_XTek0G9L522C176GFwlSQ/a87b7962-1716-4bac-d32d-8cd5b0ccd400/uswdsgraphics
-#      alt: 'Science Education'
-#    title: Promoting Science Education
-#    description: Lorem ipsum text goes here
+graphics:
+  - image:
+      src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/c3a9e16f-912d-4c67-9192-df2ddd1f4e00/public
+     alt: 'Government building icon'
+    title: Make Government Records Publically Available
+    description: Our organization is dedicated to providing accessible and transparent government records. By leveraging the latest technology and industry best practices, we present complex data in a clear and user-friendly format.
+ - image:
+      src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/2caeb7a4-1507-4bdd-0e3c-131531444300/public
+      alt: 'People talking icon'
+    title: Promoting Civic Engagement
+    description: Accessible government records are essential to promoting civic engagement. By making it easier for citizens to access and understand government information, we empower individuals to participate in the democratic process, hold their elected officials accountable, and make informed decisions about issues that impact their communities.
 
 ---
 ## Get in touch!
