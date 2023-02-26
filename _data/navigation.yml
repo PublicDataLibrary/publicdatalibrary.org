@@ -31,8 +31,8 @@ primary:
     external: false
   - text: Transparency
     href: /transparency/
-  - text: FAQs
-    href: /faq/
+  - text: Attributes
+    href: /attributes/
     external: false
   - text: Twitter
     href: https://twitter.com/publicdatalib
