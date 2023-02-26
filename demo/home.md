@@ -25,7 +25,7 @@ hero:
 graphics:
   - image:
       src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/c3a9e16f-912d-4c67-9192-df2ddd1f4e00/public
-     alt: 'Government building icon'
+      alt: 'Government building icon'
     title: Make Government Records Publically Available
     description: Our organization is dedicated to providing accessible and transparent government records. By leveraging the latest technology and industry best practices, we present complex data in a clear and user-friendly format.
  - image:
