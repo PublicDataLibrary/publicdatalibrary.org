@@ -28,13 +28,13 @@ graphics:
       alt: 'Government building icon'
     title: Make Government Records Publically Available
     description: Our organization is dedicated to providing accessible and transparent government records. By leveraging the latest technology and industry best practices, we present complex data in a clear and user-friendly format.
- - image:
+  - image:
       src: https://imagedelivery.net/xidNWvxTY3DcxfV5BKLpmA/2caeb7a4-1507-4bdd-0e3c-131531444300/public
       alt: 'People talking icon'
     title: Promoting Civic Engagement
     description: Accessible government records are essential to promoting civic engagement. By making it easier for citizens to access and understand government information, we empower individuals to participate in the democratic process, hold their elected officials accountable, and make informed decisions about issues that impact their communities.
-
 ---
+
 ## Get in touch!
 
 If you have any questions, comments, concerns, or anything else, feel free to get in touch.
