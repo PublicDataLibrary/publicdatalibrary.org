@@ -42,7 +42,7 @@ secondary:
   - text: Get in touch
     href: /contact/
   - text: Donate
-    href: removing_donation_link_plz_dont_sue
+    href: https://donate.publicdatalibrary.org/
     external: true
 
 # docs:
