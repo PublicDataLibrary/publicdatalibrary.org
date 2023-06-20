@@ -26,14 +26,14 @@ primary:
   #      href: /on-the-issues/#public-safety
   #    - text: All issues
   #      href: /on-the-issues/
+  - text: Donate
+    href: https://donate.publicdatalibrary.org/
+    external: true
   - text: Contact
     href: /contact/
     external: false
   - text: Transparency
     href: /transparency/
-  - text: Attributes
-    href: /attributes/
-    external: false
   - text: Twitter
     href: https://twitter.com/publicdatalib
     external: true
@@ -66,6 +66,9 @@ footer:
     external: false
   - text: Get in touch
     href: /contact/
+    external: false
+  - text: Attribution
+    href: /attribution/
     external: false
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.

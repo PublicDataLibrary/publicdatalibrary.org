@@ -1,7 +1,7 @@
 ---
-title: Attributes
-description: Attributes
-permalink: /attributes/
+title: Attribution
+description: Attribution
+permalink: /attribution/
 
 layout: page
 
