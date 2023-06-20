@@ -70,6 +70,9 @@ footer:
   - text: Attribution
     href: /attribution/
     external: false
+  - text: GuideStar
+    href: https://guidestar.publicdatalibrary.org/
+    external: true
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
   # - text: Documentation
